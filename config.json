@@ -1,0 +1,12 @@
+{
+    "config":{
+        "db_prod":"mongodb+srv://sangram:sangram54321@cluster0.ueaga.mongodb.net/restapi?retryWrites=true&w=majority",
+        "db_dev":"mongodb://localhost:27017/restapi",
+        "access_token":"adbgkf4564564gsdjkjkhjnljnds/%jsdhfsdfjsdfsdfhdfhsdhf%/sdhdfhuhf",
+        "refresh_token":"13klfdklsjdfgjdfkgln/%jhdfhsguuter/%kbdsd*242342434234234234",
+        "cloudinary_cloud":"dnxocizdd", 
+        "cloudinary_api":"723894562612623",
+        "cloudinary_secret":"niy8HgnZv_0B_uDO-joCgDowU00"
+
+    }
+}

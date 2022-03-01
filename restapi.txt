@@ -1,0 +1,10 @@
+npm install mongoose cookie-parser express express-fileupload cors  dotenv jsonwebtoken cloudinary  (depemdancier for rest api)
+
+
+
+
+
+
+
+
+env -  >   config   ->  server   ->  model   -> controller only strucure   ->  route   ->  use route in server .
